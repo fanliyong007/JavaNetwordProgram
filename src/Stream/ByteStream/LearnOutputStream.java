@@ -1,4 +1,4 @@
-package Stream;
+package Stream.ByteStream;
 
 import sun.net.TelnetOutputStream;
 
